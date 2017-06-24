@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\ajani\documents\code\projecteuler\6 - sum square difference\c++\c++\main.cpp(11): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\ajani\documents\code\projecteuler\6 - sum square difference\c++\c++\main.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c++.vcxproj -> C:\Users\ajani\Documents\Code\projectEuler\6 - Sum square difference\c++\Debug\c++.exe
+  c++.vcxproj -> C:\Users\ajani\Documents\Code\projectEuler\6 - Sum square difference\c++\Debug\c++.pdb (Partial PDB)
